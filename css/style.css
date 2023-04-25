@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Entry_1{
+    background-image: url("../jpg/Fon.jpg");
+    background-position-x: center;
+    background-position-y: top;
+}
